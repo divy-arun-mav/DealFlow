@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project for DealFlow — a buyer & seller acquisition platform with an approachable design language.
 
 ## Getting Started
 
@@ -15,6 +15,15 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Key routes to explore:
+- `/` – Landing
+- `/onboarding/buyer`, `/onboarding/seller` – Separate onboarding flows
+- `/profiles/buyers` – Buyer directory with accept/reject
+- `/profiles/[buyerId]` – Buyer profile detail
+- `/acquisition` – Deal workspace (stub)
+- `/matches` – Matches list (stub)
+- `/settings`, `/profile` – Stubs
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 

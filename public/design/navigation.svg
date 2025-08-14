@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="200" viewBox="0 0 1440 200">
+  <rect width="1440" height="200" fill="#F7FAFD"/>
+  <rect x="0" y="0" width="1440" height="64" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="40" y="40" font-size="22" font-weight="800" fill="#5B9DF9">DealFlow</text>
+  <g fill="#475569" font-size="14">
+    <text x="1200" y="40">Buyers</text>
+    <text x="1270" y="40">Acquisitions</text>
+    <text x="1370" y="40">Settings</text>
+  </g>
+</svg>
